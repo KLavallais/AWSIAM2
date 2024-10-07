@@ -15,7 +15,7 @@ This video focuses on the intricacies of AWS roles, showcasing how to create and
 ## Insights into IAM Management
 Through this tutorial, we explore various facets of IAM management, including the strategic assignment of roles to temporarily elevate a user's permissions. Our practical examples underscore the flexibility and power of AWS IAM in enforcing security and operational efficiency.
 
-[![Watch the video](https://github.com/KLavallais/KLavallais/blob/main/images/AWS%20Series%20Part%202.png)](https://youtu.be/0ZagQprOqDI)
+[![Watch the video](https://github.com/KLavallais/KLavallais/blob/assets/AWS%20Series%20Part%202.png)](https://youtu.be/0ZagQprOqDI)
 
 ## Looking Ahead
 As we wrap up Part 2 of our AWS IAM tutorial series, we hope you've gained valuable insights into managing roles and permissions effectively. Stay tuned for more advanced topics and hands-on tutorials designed to enhance your AWS IAM proficiency.
