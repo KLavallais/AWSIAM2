@@ -1,5 +1,6 @@
 # AWS IAM Part 2
 # AWS IAM Tutorial Series: Roles and Permissions (Part 2)
+![AWS Banner](https://github.com/KLavallais/KLavallais/blob/assets/aws-banner.png?raw=true)
 
 Welcome back to our AWS IAM tutorial series. In Part 2, we delve deeper into the pivotal concepts of roles and permissions within AWS IAM, building upon our foundational knowledge from Part 1. This segment is dedicated to demonstrating the practical application and importance of roles in managing AWS resources and permissions efficiently.
 
